@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskCalendar</string>
+    <string name="forward">﹥</string>
+    <string name="backward">﹤</string>
+</resources>
